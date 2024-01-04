@@ -1,0 +1,1416 @@
+/* New css */
+.zapscale-banner {
+    margin-top: 69px;
+    padding: 100px 0 0 0;
+    background: rgba(249, 248, 245, 1);
+    min-height: 540px;
+
+}
+
+.zapscale-banner-img {
+    margin-top: -93px;
+    margin-left: 50px;
+}
+
+.zapscale-video{
+  
+    border-radius: 20px;
+}
+
+.intuit-banner-img {
+    margin-left: 240px;
+    margin-top: -88px;
+}
+
+.ondc-banner-img {
+    margin-left: 117px;
+}
+
+.edst-logo {
+    max-width: 313px !important;
+}
+
+.tbdc-logo {
+    max-width: 327px !important;
+}
+
+.oinp-logo {
+    max-width: 180px !important;
+}
+
+.hera-logo {
+    max-width: 169px !important;
+}
+
+.zapscale-logo {
+    max-width: 258 !important;
+}
+
+@media (min-width:1000px) and (max-width:1400px) {
+    .zapscale-banner-img {
+        margin-top: -81px;
+    }
+
+    .enchanteur-banner {
+        min-height: 525px !important;
+    }
+
+    .hera-box-text {
+        font-size: 21px !important;
+    }
+
+    .enchanteur-banner {
+        padding: 89px 0 0 0 !important;
+    }
+
+    .f-20 {
+        font-size: 19px !important;
+    }
+
+    .ondc-banner {
+        margin-top: 147px;
+    }
+
+    .ondc-banner-img {
+        margin-left: 64px;
+    }
+    .f-15{
+        font-size: 14px !important;
+    }
+    .brief-change{
+        gap:30px !important;
+    }
+}
+@media (min-width:1000px) and (max-width:1610px) {
+.dmg-banner{
+    min-height: 500px !important;
+    padding: 69px 0 0 0 !important;
+}
+.template-oinp .tem-preview {
+    max-width: 1070px !important;
+    margin: -431px auto 0 auto !important;
+}
+}
+/* oinp */
+.oinp-banner {
+    background: #F4F4F0 url(../images/oinp-banner.webp) no-repeat center bottom;
+    min-height: 660px;
+    background-size: cover;
+    background-position: right;
+    margin-top: 87px;
+    padding: 84px 0 0 0;
+}
+
+@media (min-width:997px) and (max-width:1600px) {
+    .oinp-banner {
+        background-position: center;
+    }
+    .f-19 {
+        font-size: 19px !important;
+    }
+}
+
+/* tbdc */
+.tbdc-banner {
+    background: #F7F7EF url(../images/tbdc-banner.webp) no-repeat center bottom;
+    min-height: 660px;
+    background-size: cover;
+    background-position: right;
+    margin-top: 70px;
+    padding: 70px 0 0 0;
+}
+
+/* hera banner */
+.hera-banner {
+    margin-top: 69px;
+    padding: 84px 0 0 0;
+    background: rgba(255, 240, 233, 1);
+}
+
+/* edst */
+.edst-banner {
+    background: rgba(253, 238, 142, 1) url(../images/edst-banner.png) no-repeat center bottom;
+    min-height: 660px;
+    background-size: cover;
+    background-position: right;
+    margin-top: 87px;
+    padding: 84px 0 0 0;
+}
+
+/* x to 10x */
+/* .xto10x-banner {
+    background: rgba(0, 0, 0, 1) url(../images/xto10-banner.png) no-repeat center bottom;
+    min-height: 604px;
+    background-size: contain;
+    background-position: right;
+    margin-top: 69px;
+    padding: 84px 0 0 0;
+} */
+
+.xto10x-banner {
+    background:  url(../images/webp/xto10x-banner2.webp) no-repeat center bottom;
+    min-height: 674px;
+    background-size: cover;
+    padding: 110px 0 0 0;
+}
+
+/*Enchanteur*/
+.enchanteur-banner {
+    background: rgba(255, 255, 255, 1) url(../images/webp/enchanteur-banner.webp) no-repeat center bottom;
+    min-height: 600px;
+    background-size: cover;
+    background-position: right;
+    margin-top: 70px;
+    padding: 100px 0 0 0;
+}
+
+/* DMG banner */
+.dmg-banner {
+    background: url(../images/dmg-banner.jpg) no-repeat center bottom;
+    min-height: 660px;
+    background-size: cover;
+    background-position: right;
+    margin-top: 87px;
+    padding: 112px 0 0 0;
+}
+
+/* ondc banner */
+.ondc-banner {
+    margin-top: 87px;
+    padding: 84px 0 70px 0;
+    background: rgba(245, 251, 255, 1);
+}
+
+/* Intuit banner */
+.intuit-banner {
+    margin-top: 69px;
+    padding: 180px 0 80px 0;
+    /* background: rgb(9, 182, 254); */
+    background: url('../images/webp/intuit-banner1.webp');
+}
+
+.intuit-banner-section {
+    width: 500px !important;
+}
+
+.template-tbdc {
+    padding: 0px 50px;
+}
+
+.template-dmg {
+    padding: 0px 50px;
+}
+
+.pmg-problem-text {
+    max-width: 660px !important;
+}
+
+/* .intuit-section2 {
+    margin-top: 80px;
+} */
+
+.gif-section-ondc {
+    position: absolute;
+    top: -44%;
+    transform: translate(-50%, 50%);
+    left: 50%;
+    padding: 34px 39px 0px 39px;
+    border-radius: 25px;
+
+}
+
+.intuit-gif-section {
+    position: relative;
+}
+
+.gif-section-intuit {
+    position: absolute;
+    top: -35%;
+    transform: translate(-50%, 50%);
+    left: 50%;
+    padding: 18px 19px 20px 20px;
+    border-radius: 31px;
+}
+
+.gif-section-dmg {
+    position: absolute;
+    top: -43%;
+    transform: translate(-50%, 50%);
+    left: 50%;
+    padding: 19px 24px 23px 24px;
+    border-radius: 31px;
+}
+
+.ml-13 {
+    margin-left: -13px;
+}
+
+.he-60 {
+    height: 60px;
+    line-height: 25px !important;
+}
+
+.ln-18{
+    line-height: 18px !important;
+}
+
+@media (max-width: 991px) {
+
+    .detail-banner,
+    .zapscale-banner,
+    .hera-banner,
+    .ondc-banner,
+    .intuit-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 580px;
+    }
+
+    .zapscale-banner-img {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .ondc-banner-img {
+        margin-left: 0px;
+    }
+
+    .oinp-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 715px;
+        margin-top: 70px;
+    }
+
+    .tbdc-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 580px;
+        background-color: #193634;
+    }
+
+    .edst-banner {
+        background-size: 92% auto;
+        background-position: -500% bottom;
+        min-height: 518px;
+        margin-top: 70px;
+    }
+
+    .xto10x-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 800px;
+        background-color: #000;
+    }
+
+    .enchanteur-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 720px;
+        background-color: rgba(249, 207, 215, 1);
+    }
+
+    .dmg-banner {
+        background-size: contain;
+        background-position: bottom;
+        min-height: 750px;
+        margin-top: 70px;
+        background-color: #0067f9;
+    }
+
+    .template-oinp .tem-preview {
+        display: flex;
+        justify-content: center;
+        margin: -145px auto 0 auto !important;
+        padding: 0px 20px;
+    }
+
+    .template-oinp {
+        min-height: 360px !important;
+        padding-top: 2px;
+    }
+
+    .problem-oinp {
+        padding: 40px 0 90px 0 !important;
+    }
+
+    .problem-xto10x {
+        padding: 40px 0 20px 0 !important;
+    }
+
+    .problem-tbdc {
+        padding: 84px 0 20px 0;
+    }
+
+    .hera-banner .detailed-banner-content .tool-used {
+        gap: 7px !important;
+    }
+
+    .ondc-banner {
+        margin-top: 70px;
+    }
+
+    .intuit-banner-img {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .intuit-banner .detailed-banner-content .tool-used {
+        gap: 20px !important;
+    }
+
+    .template-ondc .ondc-gif {
+        width: 300px !important;
+    }
+
+    .template-ondc .gif-section-ondc {
+        width: 315px !important;
+    }
+
+    .gif-section-ondc {
+
+        top: -44%;
+        padding: 7px 19px 6px 20px;
+        border-radius: 21px;
+    }
+
+    .ondc-gif-section {
+        top: -123px !important;
+    }
+
+    .template-ondc .tem-preview {
+        padding: 105px 5px 0px 5px !important;
+    }
+
+    /* .xto10x-section2 {
+        margin-top: 90px !important;
+    } */
+
+    .xto10x-section2 img
+    {
+        width: 100% !important;
+    }
+    .tbdc-section2 img {
+        width: 250px !important;
+    }
+
+    .hera-section2 img {
+        width: 250px !important;
+        margin-bottom: -6px !important;
+    }
+
+    
+
+    /* .tbdc-section2 {
+        margin-top: 40px !important;
+    } */
+
+    .section1-gif,
+    .section2-gif {
+        padding: 0px 20px 10px 20px !important;
+    }
+
+    .enchanteur-banner .detailed-banner-content .detail-logo {
+        max-width: 230px !important;
+    }
+
+    .xto10x-banner .detailed-banner-content .detail-logo {
+        max-width: 170px !important;
+    }
+
+    .ondc-banner .detailed-banner-content .detail-logo,
+    .intuit-banner .detailed-banner-content .detail-logo {
+        max-width: 200px !important;
+    }
+    .dmg-banner .detailed-banner-content .detail-logo {
+        max-width: 150px !important;
+    }
+
+    .mr-58 {
+        margin-right: 0px !important;
+    }
+
+    .f-19 {
+        font-size: 14px !important;
+    }
+}
+
+@media(min-width:991px) {
+    .f-19 {
+        font-size: 19px !important;
+        line-height: 25px !important;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .detail-banner,
+    .zapscale-banner,
+    .oinp-banner,
+    .tbdc-banner,
+    .hera-banner,
+    .edst-banner,
+    .xto10x-banner,
+    .enchanteur-banner,
+    .dmg-banner,
+    .ondc-banner,
+    .intuit-banner {
+        padding: 40px 0 30px 0;
+    }
+
+    .zapscale-banner-img {
+        margin-top: 0px;
+    }
+   
+
+}
+
+@media (min-width:300px) and(max-width:576px) {
+    .intuit-banner .detailed-banner-content .tool-used ul li {
+        font-size: 12px !important;
+    }  
+}
+
+@media (min-width:992px) and (max-width:1600px) {
+    .edst-banner {
+        min-height: 618px;
+        background-size: contain;
+        background-position: right 100%;
+    }
+
+    .intuit-banner-img {
+        margin-left: 60px;
+        margin-top: -61px;
+    }
+
+    .intuit-banner-section {
+        width: 400px !important;
+    }
+
+  
+}
+
+@media (min-width:1300px) and (max-width:1600px){
+    .intuit-banner-img {
+        margin-left: 126px;
+        width: 446px;
+    }
+}
+
+.detail-banner .detailed-banner-content,
+.zapscale-banner .detailed-banner-content,
+.hera-banner .detailed-banner-content,
+.xto10x-banner .detailed-banner-content,
+.intuit-banner .detailed-banner-content {
+    max-width: 658px;
+}
+
+.enchanteur-banner .detailed-banner-content {
+    max-width: 688px;
+}
+
+.xto10x-banner .detailed-banner-content {
+    padding-top: 36px;
+}
+
+.oinp-banner .detailed-banner-content,
+.tbdc-banner .detailed-banner-content
+{
+    max-width: 520px;
+}
+.dmg-banner .detailed-banner-content {
+max-width:701px;
+}
+.edst-banner .detailed-banner-content {
+    max-width: 600px;
+}
+
+.ondc-banner .detailed-banner-content {
+    max-width: 548px;
+}
+
+
+.detail-banner .detailed-banner-content .detail-logo,
+.hera-banner .detailed-banner-content .detail-logo,
+.edst-banner .detailed-banner-content .detail-logo,
+.hera-banner .detailed-banner-content .detail-logo,
+.ondc-banner .detailed-banner-content .detail-logo {
+    max-width: 253px;
+    margin-bottom: 24px;
+}
+.dmg-banner .detailed-banner-content .detail-logo{
+    max-width: 192px;
+    margin-bottom: 24px;
+}
+
+.intuit-banner .detailed-banner-content .detail-logo {
+    max-width: 144px;
+    margin-bottom: 24px;
+}
+
+.xto10x-banner .detailed-banner-content .detail-logo {
+    max-width: 225px;
+    margin-bottom: 24px;
+}
+
+.zapscale-banner .detailed-banner-content .detail-logo {
+    max-width: 258px;
+    margin-bottom: 24px;
+}
+
+.enchanteur-banner .detailed-banner-content .detail-logo {
+    max-width: 295px;
+    margin-bottom: 24px;
+}
+
+.oinp-banner .detailed-banner-content .detail-logo,
+.tbdc-banner .detailed-banner-content .detail-logo {
+    max-width: 253px;
+    margin-bottom: 45px;
+}
+
+.detail-banner .detailed-banner-content p,
+.zapscale-banner .detailed-banner-content p,
+.oinp-banner .detailed-banner-content p,
+.hera-banner .detailed-banner-content p,
+.enchanteur-banner .detailed-banner-content p,
+.ondc-banner .detailed-banner-content p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+    margin: 0 0 37px 0;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.edst-banner .detailed-banner-content p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    margin: 0 0 37px 0;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.tbdc-banner .detailed-banner-content p,
+.xto10x-banner .detailed-banner-content p,
+.dmg-banner .detailed-banner-content p,
+.intuit-banner .detailed-banner-content p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    margin: 0 0 37px 0;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.brief-text {
+    font-size: 13px !important;
+}
+
+.hera-screen {
+    display: flex;
+    justify-content: end;
+}
+
+.brief-change {
+    gap: 40px !important;
+}
+
+.w-130 {
+    width: 115px;
+}
+
+
+.detail-banner .detailed-banner-content .tool-used,
+.zapscale-banner .detailed-banner-content .tool-used,
+.oinp-banner .detailed-banner-content .tool-used,
+.tbdc-banner .detailed-banner-content .tool-used,
+.hera-banner .detailed-banner-content .tool-used,
+.edst-banner .detailed-banner-content .tool-used,
+.xto10x-banner .detailed-banner-content .tool-used,
+.enchanteur-banner .detailed-banner-content .tool-used,
+.dmg-banner .detailed-banner-content .tool-used,
+.ondc-banner .detailed-banner-content .tool-used,
+.intuit-banner .detailed-banner-content .tool-used {
+    display: flex;
+    flex-direction: row;
+}
+
+.edst-banner .detailed-banner-content .tool-used {
+    gap: 50px;
+}
+
+.detail-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 97px;
+}
+
+.tbdc-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 30px;
+}
+
+.edst-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+}
+
+.oinp-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 20px;
+}
+
+.zapscale-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 40px;
+}
+
+.dmg-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 30px;
+}
+
+.intuit-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 30px;
+}
+
+.hera-banner .detailed-banner-content .tool-used {
+    gap: 50px;
+}
+
+.ondc-banner .detailed-banner-content .tool-used {
+    gap: 40px;
+}
+
+.intuit-banner .detailed-banner-content .tool-used {
+    gap: 50px;
+}
+
+.hera-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+}
+
+.ondc-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+}
+
+.xto10x-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 50px;
+}
+
+.enchanteur-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 50px;
+}
+
+.dmg-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 50px;
+}
+
+.intuit-banner .detailed-banner-content .tool-used ul {
+    padding: 0;
+    margin-right: 50px;
+}
+
+.detail-banner .detailed-banner-content .tool-used ul:last-of-type,
+.zapscale-banner .detailed-banner-content .tool-used ul:last-of-type,
+.oinp-banner .detailed-banner-content .tool-used ul:last-of-type,
+.tbdc-banner .detailed-banner-content .tool-used ul:last-of-type,
+.edst-banner .detailed-banner-content .tool-used ul:last-of-type,
+.xto10x-banner .detailed-banner-content .tool-used ul:last-of-type,
+.enchanteur-banner .detailed-banner-content .tool-used ul:last-of-type,
+.dmg-banner .detailed-banner-content .tool-used ul:last-of-type,
+.ondc-banner .detailed-banner-content .tool-used ul:last-of-type,
+.intuit-banner .detailed-banner-content .tool-used ul:last-of-type {
+    margin-right: 0;
+}
+
+@media (max-width: 575px) {
+
+    .detail-banner .detailed-banner-content .tool-used ul,
+    .zapscale-banner .detailed-banner-content .tool-used ul,
+    .oinp-banner .detailed-banner-content .tool-used ul,
+    .tbdc-banner .detailed-banner-content .tool-used ul,
+    .hera-banner .detailed-banner-content .tool-used ul,
+    .edst-banner .detailed-banner-content .tool-used ul,
+    .xto10x-banner .detailed-banner-content .tool-used ul,
+    .enchanteur-banner .detailed-banner-content .tool-used ul,
+    .dmg-banner .detailed-banner-content .tool-used ul,
+    .ondc-banner .detailed-banner-content .tool-used ul,
+    .intuit-banner .detailed-banner-content .tool-used ul {
+        margin-right: 15px;
+    }
+}
+
+.detail-banner .detailed-banner-content .tool-used ul li,
+.zapscale-banner .detailed-banner-content .tool-used ul li,
+.oinp-banner .detailed-banner-content .tool-used ul li,
+.edst-banner .detailed-banner-content .tool-used ul li,
+.enchanteur-banner .detailed-banner-content .tool-used ul li
+{
+
+    list-style: none;
+    font-size: 14px;
+    font-family: "Nunito Sans", sans-serif;
+    line-height: 1;
+    color: #000;
+}
+
+.hera-banner .detailed-banner-content .tool-used ul li {
+
+    list-style: none;
+    font-size: 13px;
+    font-family: "Nunito Sans", sans-serif;
+    line-height: 1;
+    color: #000;
+}
+
+
+
+.ondc-banner .detailed-banner-content .tool-used ul li {
+    font-size: 13px;
+    list-style: none;
+    font-family: "Nunito Sans", sans-serif;
+    line-height: 1;
+    color: #000;
+}
+.detailed-banner-content .tool-used ul li{
+    position: relative;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+.detailed-banner-content .tool-used ul li.inner-list{
+    padding-left: 0 !important;
+}
+.detailed-banner-content .tool-used ul li.inner-list::after{
+    content: none;
+}
+.detailed-banner-content .tool-used ul li:first-of-type{
+    padding-left: 0;
+}
+
+.detailed-banner-content .tool-used ul li:first-of-type::after{
+content: none;
+}
+.detailed-banner-content .tool-used ul li::after{
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background: #000;
+    border-radius: 50%;
+    left: 0;
+    top: 4px;
+    
+}
+.hera-banner .detailed-banner-content .tool-used ul li::after{
+    top: 2px;
+}
+.dmg-banner .detailed-banner-content .tool-used ul li::after,
+.xto10x-banner .detailed-banner-content .tool-used ul li::after,
+.tbdc-banner .detailed-banner-content .tool-used ul li::after,
+.intuit-banner .detailed-banner-content .tool-used ul li::after{
+    background: #fff;
+}
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.tbdc-banner .detailed-banner-content .tool-used ul li,
+.xto10x-banner .detailed-banner-content .tool-used ul li,
+.dmg-banner .detailed-banner-content .tool-used ul li,
+.intuit-banner .detailed-banner-content .tool-used ul li {
+    list-style: none;
+    font-size: 14px;
+    font-family: "Nunito Sans", sans-serif;
+    line-height: 1;
+    color: #fff;
+}
+
+.detail-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.zapscale-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.oinp-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.tbdc-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.hera-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.edst-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.xto10x-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.enchanteur-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.dmg-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.ondc-banner .detailed-banner-content .tool-used ul li:first-of-type,
+.intuit-banner .detailed-banner-content .tool-used ul li:first-of-type {
+    font-weight: 700;
+}
+
+.problem-edst {
+    padding: 84px 0 91px 0;
+}
+
+.problem-zapscale {
+    padding: 50px 0 50px 0;
+}
+
+.problem-oinp {
+    padding: 84px 0 100px 0;
+}
+
+.problem-oinp1 {
+    padding: 84px 0 91px 0;
+}
+
+.problem-tbdc {
+    padding: 84px 0 91px 0;
+}
+
+.problem-hera {
+    padding: 84px 0 50px 0;
+}
+
+.problem-xto10x {
+    padding: 84px 0 30px 0;
+}
+
+.mr-58 {
+    margin-right: 58px;
+}
+
+@media (max-width: 575px) {
+    .problem-zapscale {
+        padding: 15px 0;
+    }
+
+    .edst-banner .detailed-banner-content .tool-used {
+        gap: 0px;
+    }
+
+    .problem-zapscale p,
+    .problem-hera p,
+    .problem-edst p,
+    .problem-tbdc p {
+        margin-top: 20px !important;
+    }
+}
+
+
+.problem-edst p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    max-width: 560px;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 20px;
+
+}
+
+.problem-hera p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    max-width: 678px;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 20px; 
+}
+
+.problem-zapscale p {
+    max-width: 793px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 25px;
+}
+
+.problem-xto10x p {
+    max-width: 854px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 20px;
+}
+
+
+.problem-tbdc p {
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    /* max-width: 540px; */
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 25px;
+
+}
+
+.problem-oinp p,.problem-oinp1 p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    /* max-width: 577px; */
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 25px;
+} 
+
+@media (max-width: 575px) {
+    .problem-zapscale p {
+        margin-bottom: 30px;
+    }
+
+    .problem,
+    .problem-hera,
+    .problem-tbdc,
+    .problem-edst,
+    .problem-oinp1 {
+        padding: 40px 0 !important;
+    }
+}
+
+.problem-zapscale img {
+    max-width: 231px;
+}
+
+.template,
+.template-oinp,
+.template-tbdc,
+.template-dmg {
+    padding: 0 120px 172px;
+}
+
+.template-intuit {
+    padding: 0 120px 0px;
+}
+
+.template-hera{
+    padding: 0 160px 0px;
+}
+
+.template-edst {
+
+    padding: 0 160px 109px;
+}
+
+
+.template-enchanteur {
+    padding: 0 120px 130px;
+}
+
+.template-xto10x{
+    padding: 0 120px 0px;
+}
+
+
+.template-zapscale {
+    background-image: linear-gradient(to bottom, #fff 28%, rgba(249, 249, 249, 0.6) 20%);
+    padding: 0 120px 95px;
+}
+
+.template-xto10x {
+    background-image: linear-gradient(to bottom, #fff 28%, rgba(0, 0, 0, 1) 20%);
+}
+
+.template-enchanteur {
+    background-image: linear-gradient(to bottom, #fff 28%, rgba(253, 240, 243, 1) 20%);
+
+}
+
+.template-oinp {
+    background: url(../images/oinp-section2.png) no-repeat center bottom;
+    min-height: 1310px;
+    background-size: cover;
+    margin-top: 87px;
+    padding: 100px 0 0 0;
+}
+
+.f-21 {
+    font-size: 21px !important;
+}
+
+.f-22 {
+    font-size: 22px !important;
+}
+
+.f-20 {
+    font-size: 19px !important;
+}
+
+
+.h-60 {
+    height: 50px;
+}
+
+.brief-gap {
+    gap: 30px !important;
+}
+
+.xto10x-section2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.xto10x-section2 img{
+    width: 100%;;
+}
+.hera-section2 img,
+.tbdc-section2 img {
+    width: unset;
+}
+
+.hera-section2 {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 100px; */
+    margin-left: 75px;
+}
+
+.tbdc-section2 {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 100px; */
+}
+
+.zapscale-section2 {
+    margin-top: 100px;
+}
+
+.section1-gif {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    padding: 0px 40px 38px 40px;
+    height: 89%;
+    border-radius: 0% 0% 13% 13%;
+}
+
+.section2-gif {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    padding: 0px 40px 30px 40px;
+    height: 89%;
+    border-radius: 0% 0% 13% 13%;
+}
+
+.enchanteur-section1 {
+    position: relative;
+}
+
+@media (min-width:997px) and (max-width: 1440px) {
+    .template-oinp {
+        min-height: 930px;
+    }
+
+    .gif-section-ondc {
+        padding: 20px 35px 27px 36px;
+        border-radius: 30px;
+    }
+
+    .template-ondc .tem-preview {
+        padding: 540px 0px 100px 0px !important;
+    }
+
+    .xto10x-banner {
+        min-height: 700px;
+    }
+
+    /* .g-20 {
+        gap: 20px !important;
+    } */
+
+    .template-ondc .tem-preview .container {
+        max-width: 1190px;
+
+    }
+}
+@media (min-width:1500px) and (max-width:1610px){
+    .template-oinp{
+        min-height: 1080px;
+    }
+    
+}
+@media (max-width: 1440px) {
+
+    .template,
+    .template-enchanteur,
+    .template-intuit {
+        padding: 0 50px 40px;
+    }
+    .template-tbdc{
+        padding: 0 50px 170px;
+    }
+    .template-enchanteur{
+        padding: 0 50px 150px;
+    }
+    .template-xto10x
+    { 
+        padding: 0 50px 0px;
+    }
+   
+    .template-ondc {
+        padding: 0 30px 50px;
+    }
+
+    .template-oinp {
+        padding: 4px 50px 172px;
+    }
+
+    .template-hera {
+        padding: 0 70px 0px;
+    }
+
+    .template-edst,
+    .template-zapscale,
+    .template-dmg {
+        padding: 0 50px 85px;
+    }
+}
+
+@media (max-width:270px){
+    .ondc-gif-section {
+        top: -70px !important;
+    }
+    .template-ondc .gif-section-ondc {
+        width: 204px !important;
+    }
+    .ondc-banner .detailed-banner-content .tool-used ul li ,.tbdc-banner .detailed-banner-content .tool-used ul li:first-of-type,.oinp-banner .detailed-banner-content .tool-used ul li,.zapscale-banner .detailed-banner-content .tool-used ul li,.enchanteur-banner .detailed-banner-content .tool-used ul li,.dmg-banner .detailed-banner-content .tool-used ul li,.xto10x-banner .detailed-banner-content .tool-used ul li{
+        font-size: 7px !important;
+        line-height: 19px !important;
+    }
+    
+    .dmg-banner .detailed-banner-content .tool-used ul li, .intuit-banner .detailed-banner-content .tool-used ul li,.hera-banner .detailed-banner-content .tool-used ul li {
+        font-size: 6px !important;
+        line-height: 14px !important;
+    }
+    
+    .hera-section2 img {
+        width: 190px !important;
+    }
+    }
+
+
+@media (min-width:250px) and (max-width: 300px){
+.ondc-gif-section {
+    top: -70px !important;
+}
+.template-ondc .gif-section-ondc {
+    width: 254px !important;
+}
+.ondc-banner .detailed-banner-content .tool-used ul li ,.tbdc-banner .detailed-banner-content .tool-used ul li:first-of-type,.oinp-banner .detailed-banner-content .tool-used ul li,.zapscale-banner .detailed-banner-content .tool-used ul li,.enchanteur-banner .detailed-banner-content .tool-used ul li,.dmg-banner .detailed-banner-content .tool-used ul li,.xto10x-banner .detailed-banner-content .tool-used ul li{
+    font-size: 11px !important;
+    line-height: 19px !important;
+}
+
+.dmg-banner .detailed-banner-content .tool-used ul li, .intuit-banner .detailed-banner-content .tool-used ul li,.hera-banner .detailed-banner-content .tool-used ul li {
+    font-size: 9px !important;
+    line-height: 16px !important;
+}
+
+.hera-section2 img {
+    width: 208px !important;
+}
+}
+@media (max-width: 767px) {
+
+    .row {
+        --bs-gutter-x: 0 !important;
+        --bs-gutter-y: 0 !important;
+    }
+    .hera-listing {
+      margin:0px !important;
+      --bs-gutter-x:unset !important;
+      --bs-gutter-y:unset !important;
+    }
+
+    .template,
+    .template-oinp {
+        padding: 1px 0 70px;
+    }
+
+    .template-zapscale,
+   
+    .template-enchanteur,
+    .template-ondc {
+        padding: 0 20px 70px;
+    }
+    .template-xto10x{
+        padding: 0 20px 0px;
+    }
+    .template-dmg {
+        padding: 0 20px 50px;
+    }
+
+    .template-intuit {
+        padding: 0 20px 20px;
+    }
+
+    .template-hera {
+        padding: 0 20px 0px;
+    }
+
+    .template-edst,
+    .template-tbdc {
+        padding: 0 20px 40px;
+    }
+
+    .template-hera .tem-preview {
+        margin-bottom: -35px !important;
+    }
+
+    .strategy .strategy-feture .strategy-item {
+        align-items: center;
+    }
+
+    .ondc-banner .detailed-banner-content .tool-used {
+        gap: 10px;
+    }
+
+    .template-ondc .tem-preview {
+        padding: 105px 5px 0px 5px !important;
+    }
+
+    .template-ondc .ondc-gif {
+        width: 300px;
+    }
+
+    .template-ondc .gif-section-ondc {
+        width: 327px ;
+    }
+
+    .gif-section-ondc {
+
+        top: -45%;
+        padding: 7px 19px 6px 20px;
+        border-radius: 21px;
+    }
+
+    .ondc-gif-section {
+        top: -123px;
+    }
+
+    .gif-section-intuit {
+        top: -42%;
+    }
+
+    .gif-section-dmg {
+        top: -42%;
+        padding: 8px 10px 0px 10px;
+        border-radius: 15px;
+    }
+/* 
+    .intuit-section2 {
+        margin-top: 30px;
+    } */
+
+    .h-60 {
+        height: unset !important;
+    }
+
+    .template-zapscale .tem-preview {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .template-zapscale .tem-preview video {
+        width: 270px;
+        margin-top: 15px;
+    }
+
+    .zapscale-section2 {
+        margin-top: 20px;
+    }
+
+    .w-130 {
+        width: unset !important;
+    }
+    .xto10x-section2 {
+        margin-top: -25px !important;
+    }
+
+}
+
+.template .tem-preview {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.template-tbdc .tem-preview {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.template-edst .tem-preview {
+    max-width: 1416px;
+    margin: 0 auto;
+}
+
+.template-zapscale .tem-preview {
+    max-width: 1277px;
+    margin: 0 auto;
+}
+
+.ondc-gif-section {
+    position: absolute;
+    top: -403px;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    display: flex;
+}
+
+
+.template-xto10x .tem-preview,
+.template-enchanteur .tem-preview {
+    max-width: 1277px;
+    margin: 0 auto;
+}
+
+.template-ondc .ondc-gif {
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.template-intuit .tem-preview,
+.template-dmg .tem-preview {
+    max-width: 1415px;
+    margin: 0 auto;
+}
+
+
+.template-ondc .tem-preview {
+    margin: 0 auto;
+    padding: 590px 80px 100px 80px;
+    position: relative;
+}
+
+.template-oinp .tem-preview {
+    max-width: 1250px;
+    margin: -447px auto 0 auto;
+}
+
+.template-hera .tem-preview {
+    margin-bottom: -163px;
+}
+
+.inner-list {
+    list-style-type: disc !important;
+}
+
+.first-sublist {
+    font-weight: 400 !important;
+}
+
+@media (min-width:1000px) and (max-width:1300px){
+    .zapscale-video{
+        width: 1164px;
+    }
+   
+}
+
